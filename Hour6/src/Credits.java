@@ -1,6 +1,6 @@
 class Credits {
 	public static void main(String[] args) {
-		//set up film information
+		// set up film information
 		String title = "The Piano";
 		int year = 1993;
 		String director = "Jane Campion";
